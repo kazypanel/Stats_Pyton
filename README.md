@@ -45,9 +45,7 @@ Conçu pour tourner en permanence sur un bureau Linux, il est particulièrement 
 
 ## 📸 Capture d'écran
 
-<!-- Ajoutez une capture d'écran ici -->
-> *Placez une image `screenshot.png` à la racine du dépôt et décommentez la ligne ci-dessous*
-<!-- ![SysMonitor screenshot](screenshot.png) -->
+![SysMonitor screenshot](screenshot.png)
 
 ---
 
