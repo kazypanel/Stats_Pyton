@@ -143,8 +143,3 @@ Les contributions sont les bienvenues ! N'hésitez pas à ouvrir une *issue* ou 
 
 Ce projet est sous licence **MIT** — voir le fichier [LICENSE](LICENSE) pour les détails.
 
----
-
-<p align="center">
-  Fait avec ❤️ par <strong>Frederic Terrasse</strong> · Ambarès-et-Lagrave, France
-</p>
