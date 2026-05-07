@@ -61,11 +61,11 @@ sudo apt install python3 python3-tk python3-psutil
 
 > Les modules `platform`, `datetime`, `threading`, `time`, `os`, `shutil` et `subprocess` font partie de la bibliothèque standard Python — aucune installation supplémentaire requise.
 
-### Cloner le dépôt
+### Téléchargement du dépôt
 
 ```bash
-git clone https://github.com/kazypanel/Stats_Pyton.git
-cd sysmonitor
+mkdir sysmonitor && cd sysmonitor
+wget https://github.com/kazypanel/Stats_Pyton/blob/main/dashboard_systeme.py
 ```
 
 ### Lancer
