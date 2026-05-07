@@ -64,7 +64,7 @@ sudo apt install python3 python3-tk python3-psutil
 ### Cloner le dépôt
 
 ```bash
-git clone https://github.com/votre-utilisateur/sysmonitor.git
+git clone https://github.com/kazypanel/Stats_Pyton.git
 cd sysmonitor
 ```
 
